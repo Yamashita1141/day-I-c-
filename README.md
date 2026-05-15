@@ -1,2 +1,3 @@
-# day-I-c++-
-variabel dan tipe data
+# day I belajar c++
+variabel dan tipe data, dan
+input dari user
